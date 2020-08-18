@@ -52,3 +52,11 @@ body {
     color: #fff;
     margin-top: 10px;
 }
+
+#songLyrics{
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px 10px;
+    border-radius: 20px;
+    border-top: 3px solid #1c7430;
+    border-bottom: 3px solid #1c7430;
+}
